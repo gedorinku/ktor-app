@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktorapp.iml" filepath="$PROJECT_DIR$/.idea/modules/ktorapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktorapp_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ktorapp_main.iml" group="ktorapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ktorapp_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ktorapp_test.iml" group="ktorapp" />
+    </modules>
+  </component>
+</project>
